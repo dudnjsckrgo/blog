@@ -1,0 +1,8 @@
+[languages]
+[languages.en]
+  languageName = "English"
+  weight = 1
+[languages.kr]
+  languageName = "Korean"
+  weight = 2
+
