@@ -9,6 +9,7 @@
         [languages.en.menu]
         [languages.en.params]
             displayName = "EN"
+            homepage.showMoreLinkDest= "/blog/en/posts"
     [languages.ko]
         disabled = false
         languageCode = 'ko-KR'
@@ -16,9 +17,11 @@
         languageFlag = 'KR'
         languageName = 'Korean'
         weight = 2
+        title = "트리플영"
         [languages.ko.menu]
         [languages.ko.params]
             displayName = "KO"
+            homepage.showMoreLinkDest= "/blog/ko/posts"
     [languages.ja]
         disabled = false
         languageCode = 'ja-JP'
@@ -29,3 +32,7 @@
         [languages.ja.menu]
         [languages.ja.params]
             displayName = "JA"
+            homepage.showMoreLinkDest= "/blog/ja/posts"
+
+article.showRelatedContent = true
+article.showTableOfContents = true

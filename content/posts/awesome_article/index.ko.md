@@ -2,7 +2,7 @@
 title: "아이펠 1주차 회고"
 date: 2023-11-03
 description: "아이펠 회고"
-categories: [아이펠]
+categories: [기록장]
 tags: [아이펠]
 slug: /aiffel-1-weekend
 showLikes: true
