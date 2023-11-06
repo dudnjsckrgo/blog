@@ -2,3 +2,6 @@ baseURL = 'https://dudnjsckrgo.github.io/blog/'
 languageCode = 'ko-KR'
 title = 'TripleYoung'
 theme = 'blowfish'
+defaultContentLanguage = 'ko'
+defaultContentLanguageInSubdir = true
+
