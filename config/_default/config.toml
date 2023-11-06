@@ -103,9 +103,7 @@ googleAnalytics = "G-V13F66S3ZN"
 [permalinks]
   [permalinks.page]
     posts = '/posts/:year/:month/:slug/'
-    tutorials = '/training/:slug/'
   [permalinks.section]
     posts = '/posts/'
-    tutorials = '/training/'
   [permalinks.term]
     tags = '/:slug/'
