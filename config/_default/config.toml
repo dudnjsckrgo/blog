@@ -100,10 +100,3 @@ buildFuture = false
 googleAnalytics = "G-V13F66S3ZN"
 
 
-[permalinks]
-  [permalinks.page]
-    posts = '/posts/:year/:month/:slug/'
-  [permalinks.section]
-    posts = '/posts/'
-  [permalinks.term]
-    tags = '/:slug/'
