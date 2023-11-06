@@ -11,6 +11,9 @@ authors:
     - tripleyoung
 showAuthor: article.showAuthor
 draft: false
+series: ["아이펠 기록"]
+series_order: 1
+showTable: true
 ---
 # 제 나름대로 국비 학원을 많이 다녀 봤습니다.
 
