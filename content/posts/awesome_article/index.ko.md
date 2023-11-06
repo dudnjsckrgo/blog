@@ -5,6 +5,8 @@ description: "아이펠 회고"
 categories: [아이펠]
 tags: [아이펠]
 slug: /aiffel-1-weekend
+showLikes: true
+showViews: true
 authors: 
     - tripleyoung
 showAuthor: article.showAuthor
