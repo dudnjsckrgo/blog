@@ -1,4 +1,4 @@
 colorScheme = "blowfish"
-
-homepage.layout = "card"
+mainSections = ["posts"]
+homepage.layout = "page"
 homepage.showRecent  = true

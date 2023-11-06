@@ -1,8 +1,31 @@
 [languages]
-[languages.en]
-  languageName = "English"
-  weight = 1
-[languages.kr]
-  languageName = "Korean"
-  weight = 2
-
+    [languages.en]
+        disabled = false
+        languageCode = 'en-US'
+        languageNameShort = 'en'
+        languageFlag = 'US'
+        languageName = 'English'
+        weight = 1
+        [languages.en.menu]
+        [languages.en.params]
+            displayName = "EN"
+    [languages.ko]
+        disabled = false
+        languageCode = 'ko-KR'
+        languageNameShort = 'kr'
+        languageFlag = 'KR'
+        languageName = 'Korean'
+        weight = 2
+        [languages.ko.menu]
+        [languages.ko.params]
+            displayName = "KO"
+    [languages.ja]
+        disabled = false
+        languageCode = 'ja-JP'
+        languageNameShort = 'ja'
+        languageFlag = 'JP'
+        languageName = 'Japan'
+        weight = 3
+        [languages.ja.menu]
+        [languages.ja.params]
+            displayName = "JA"

@@ -1,4 +1,4 @@
-baseURL = 'https://dudnjsckrgo.github.io/'
+baseURL = 'https://dudnjsckrgo.github.io/blog/'
 languageCode = 'ko-KR'
 title = 'TripleYoung Blog'
 theme = 'blowfish'
