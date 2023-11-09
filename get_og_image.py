@@ -64,7 +64,7 @@ def process_urls(file_path):
             og_data = get_og_data(url)
             if og_data is not None:
                 json_filename = sanitize_url(url) + '.json'
-                with open(os.path.join('data', json_filename), 'w', encoding='utf-8') as json_file:
+                with open(os.path.join('data/url', json_filename), 'w', encoding='utf-8') as json_file:
                     json.dump(og_data, json_file, ensure_ascii=False)
                 print(f"Finished processing URL: {url}")
             else:

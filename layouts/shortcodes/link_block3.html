@@ -1,7 +1,7 @@
 {{ $url := .Get "url" }}
 {{ $sanitizedUrl := strings.TrimSuffix "/" $url }} <!-- 끝의 '/' 제거 -->
 {{ $dataFile := printf "%s" (replace (replace (replace (replace $sanitizedUrl "." "_") "https://" "https_") "http://" "http_" ) "/" "-") }}
-{{ with index .Site.Data $dataFile }}
+{{ with index .Site.Data.url $dataFile }}
 {{if .image }}
 <div>
 <a href="{{ $url }}" style="position: relative; display: flex; text-decoration: none; border: 1px solid #ccc; padding: 10px; border-radius: 8px; transition: transform 0.2s; height: 120px; overflow: hidden;">
@@ -87,7 +87,7 @@
     font-size: 1.1em;
   }
   .mobile-text-size {
-    font-size: 0.7em;
+    font-size: 0.8em;
   }
 }
 </style>
