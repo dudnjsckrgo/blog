@@ -4,7 +4,7 @@ date: 2023-11-09
 description: "6D Object Pose Estimation 논문 리뷰 시작하기"
 categories: [논문 리뷰]
 tags: [iros20-6d-pose-tracking , 6D Object Pose Estimation]
-slug: /iros20-6d-pose-tracking
+slug: /6d-pose-estimation
 showLikes: true
 showViews: true
 authors: 
@@ -34,7 +34,7 @@ vuforia, wikitude 등 쟁쟁한 AR 업체들의 솔루션들을 보았는데, �
 그래서 저는 최신 오브젝트 트랙킹 딥러닝 논문을 리서치하기로 했습니다.
 
 
-- ## 첫번째로 
+## 첫번째로 
 
 국제 지능형 로봇 및 시스템 컨퍼런스(IROS) 2020에서 채택 된 
 

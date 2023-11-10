@@ -10,9 +10,9 @@ showViews: true
 authors: 
     - tripleyoung
 showAuthor: article.showAuthor
-draft: false
+draft: true
 series: ["AI 공부"]
-series_order: 2
+series_order: 3
 showTable: true
 ---
 ## **1-2. 함수와 변수(1) 함수 불러보기**

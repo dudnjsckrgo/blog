@@ -10,7 +10,7 @@ showViews: true
 authors: 
     - tripleyoung
 showAuthor: article.showAuthor
-draft: false
+draft: true
 series: ["아이펠 기록"]
 series_order: 1
 showTable: true

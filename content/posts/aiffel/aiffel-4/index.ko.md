@@ -10,9 +10,9 @@ showViews: true
 authors: 
     - tripleyoung
 showAuthor: article.showAuthor
-draft: false
+draft: true
 series: ["AI 공부"]
-series_order: 1
+series_order: 5
 showTable: true
 ---
 
