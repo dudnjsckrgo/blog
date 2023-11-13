@@ -10,7 +10,7 @@ showViews: true
 authors: 
     - tripleyoung
 showAuthor: article.showAuthor
-draft: false
+draft: true
 series: ["6D Object Pose Estimation 논문 분석"]
 series_order: 4
 showTable: true
