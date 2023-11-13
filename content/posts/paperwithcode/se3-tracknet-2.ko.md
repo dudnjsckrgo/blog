@@ -1,8 +1,8 @@
 ---
 title: "IROS20 6D Pose Tracking"
 date: 2023-11-09
-description: "iros20-6d-pose-tracking 논문 리뷰 시작하기"
-categories: [논문 리뷰]
+description: "iros20-6d-pose-tracking 논문 분석 시작하기"
+categories: [논문 분석]
 tags: [iros20-6d-pose-tracking , 6D Object Pose Estimation]
 slug: /iros20-6d-pose-tracking-1
 showLikes: true
@@ -11,7 +11,7 @@ authors:
     - tripleyoung
 showAuthor: article.showAuthor
 draft: false
-series: ["6D Object Pose Estimation 논문 리뷰"]
+series: ["6D Object Pose Estimation 논문 분석"]
 series_order: 2
 showTable: true
 ---
@@ -75,7 +75,7 @@ GPT4에게 소스코드 부분 이미지를 주어서 디렉토리 구조를 간
 ***
 #### GPT의 추천 순서
 
-소스 코드 리뷰를 할 때 코드를 보는 순서는 프로젝트의 구조와 해당 코드가 어떻게 상호 작용하는지에 따라 달라질 수 있습니다. 일반적으로 소스 코드를 이해하고 리뷰하는 데 도움이 되는 표준 접근 방식을 제안할 수 있습니다. 다음은 GitHub 저장소 `wenbowen123/iros20-6d-pose-tracking`의 구조에 기반한 추천 순서입니다:
+소스 코드 분석를 할 때 코드를 보는 순서는 프로젝트의 구조와 해당 코드가 어떻게 상호 작용하는지에 따라 달라질 수 있습니다. 일반적으로 소스 코드를 이해하고 분석하는 데 도움이 되는 표준 접근 방식을 제안할 수 있습니다. 다음은 GitHub 저장소 `wenbowen123/iros20-6d-pose-tracking`의 구조에 기반한 추천 순서입니다:
 
 1. **`README.md`**: 프로젝트의 개요, 설정 및 사용 방법에 대한 지침을 제공합니다. 프로젝트를 시작하기 전에 전체적인 이해를 위해 반드시 읽어야 합니다.
 
@@ -107,7 +107,7 @@ GPT4에게 소스코드 부분 이미지를 주어서 디렉토리 구조를 간
 
 15. **`media` 폴더**: 프로젝트 관련 미디어 자산을 검토합니다.
 
-이 접근 방식은 프로젝트의 전체적인 흐름을 이해하고 각 부분이 어떻게 상호작용하는지 파악하는 데 도움이 될 것입니다. 코드 리뷰를 할 때는 각 파일의 로직, 코드의 품질, 버그, 코딩 표준 준수, 문서화의 정확성 등을 주의 깊게 살펴보는 것이 중요합니다.
+이 접근 방식은 프로젝트의 전체적인 흐름을 이해하고 각 부분이 어떻게 상호작용하는지 파악하는 데 도움이 될 것입니다. 코드 분석를 할 때는 각 파일의 로직, 코드의 품질, 버그, 코딩 표준 준수, 문서화의 정확성 등을 주의 깊게 살펴보는 것이 중요합니다.
 
 ### 코드실행을 통해서 코드 맛보기
 ***
